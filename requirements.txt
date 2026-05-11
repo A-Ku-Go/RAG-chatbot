@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai
+pypdf
+python-docx
+faiss-cpu
+sentence-transformers
+doc2txt
+chardet
